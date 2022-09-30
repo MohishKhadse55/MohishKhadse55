@@ -28,26 +28,16 @@
 </div>
 
 
-<div align="center">
 
-  `Developer and IT enthusiast`
-  <br>
-
-  `=========================`
-  <br>
-
-  `¯\_(ツ)_/¯`
-</div>
 
 
 <div>
 
   ## 📚 &nbsp;Currently studying
 
-  - Figma
-  - Microservices architecture
-  - Clean architecture
-  - TDD
+  - React
+  - Shell Scripting
+  - Embedded C
 
 </div>
 
@@ -83,10 +73,10 @@
 
   ## 📊 &nbsp;My activities
   <a href="https://github.com/Pepyn0">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=MohishKhadse55&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/Pepyn0">
-    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="Mohish Khadse" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohishKhadse55&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
