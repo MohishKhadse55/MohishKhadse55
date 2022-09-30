@@ -13,14 +13,14 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Information System student at UFPI.
+  - 📚 Electronics and Telecommunication  student at VIT, Pune.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
+  - 🌱  I’m always studying **JavaScript**, , **ReactJS**, **NodeJS**, **ExpressJS** ,**Java**.
 
   - 💬 Ask me about **any technology**.
 
-  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
+  - ⚡ Fun fact: Ajj kamayega to kal baith ke Khayanga
 
   <br>
   
