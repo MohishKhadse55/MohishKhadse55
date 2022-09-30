@@ -9,6 +9,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Mohish+Khadse+%3C3;I'+am+a+3nd+yr+Undergraduate+at+Vit,Pune;Welcome+to+my+profile+!">
 </p>
   
+  
+  <table><tr><td valign="top" width="50%">
   <div>
 
   ## 🧭 &nbsp;About Me
@@ -21,18 +23,16 @@
   - 💬 Ask me about **any technology**.
 
   - ⚡ Fun fact: Ajj kamayega to kal baith ke Khayanga
-
-  <br>
-  
+   </td><td valign="top" width="30%">
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div align="center" >
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" margin="10px" />
 </div>
 
-
-
+</td></tr></table>  
+<br/>
 
 
 <div>
