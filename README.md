@@ -73,7 +73,9 @@
 
 </div>
 
-
+<div>
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=intellij)&nbsp;
+<div/>
 <div>
 
   ## 📊 &nbsp;My activities
