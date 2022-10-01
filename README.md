@@ -6,7 +6,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Mohish+Khadse+%3C3;I'+am+a+3nd+yr+Undergraduate+at+Vit,Pune;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Mohish+Khadse;I'+am+a+3nd+yr+Undergraduate+at+Vit,Pune;Welcome+to+my+profile+!">
 </p>
   
   
@@ -68,14 +68,12 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
   ![MongoDb](https://img.shields.io/badge/-MongoDb-0D1117?style=flat&logo=MongoDb)
-  ![Java](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=Java)
+  ![Java](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=java)
   
 
 </div>
 
-<div>
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=intellij)&nbsp;
-<div/>
+
 <div>
 
   ## 📊 &nbsp;My activities
@@ -111,10 +109,4 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
-
- ![Mohish GitHub stats](https://github-readme-stats.vercel.app/api?username=MohishKhadse55&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@Mohish-Github-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohishKhadse55&theme=react&custom_title=Languages)](https://github.com/MohishKhadse55/Profile/edit/main/README.md) 
 
