@@ -93,7 +93,7 @@
   [![LinkedIn Badge](https://img.shields.io/badge/-MohishKhadse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohish-khadse-a94412198/)](https://www.linkedin.com/in/mohish-khadse-a94412198/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-mohishkhadse3222@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:mohishkhadse3222@gmail.com)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-Mohish-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pepyn0_/)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/-Pepyn0-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pepyn0)&nbsp;
+ 
  
 </div>
 
