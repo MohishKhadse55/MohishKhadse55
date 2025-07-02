@@ -15,10 +15,10 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Electronics and Telecommunication  student at VIT, Pune.
+  - 📚 IAM Engineer at IBM Software Labs, Pune.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  I’m always studying **JavaScript**, , **ReactJS**, **NodeJS**, **ExpressJS** ,**Java**.
+  - 🌱 Securing access, that's my game, On IAM I have my aim!, Using JS, Go, and Java too, On cloud with OCP, I see it through! 🚀🔐💻
 
   - 💬 Ask me about **any technology**.
 
