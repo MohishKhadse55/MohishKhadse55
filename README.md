@@ -22,7 +22,7 @@
 
   - 💬 Ask me about **any technology**.
 
-  - ⚡ Fun fact: Ajj kamayega to kal baith ke Khayanga
+  - ⚡ Fun fact: The first computer bug was a real bug, a moth stuck in a relay! Debugging code isn't just about fixing errors; it's about learning, growing, and turning every bug into a stepping stone. Keep coding, keep evolving. 🚀
    </td><td valign="top" width="30%">
 
 </div>
